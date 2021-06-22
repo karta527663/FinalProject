@@ -1,4 +1,4 @@
-# Final
+# FinalProject
 
 ### Run docker-compose:
 
